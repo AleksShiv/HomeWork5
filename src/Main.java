@@ -50,7 +50,7 @@ public class Main {
 
         //
 
-        int monthNumber = 3;
+        int monthNumber = 6;
         switch (monthNumber) {
             case 1:
             case 2:
